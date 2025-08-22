@@ -1,6 +1,9 @@
 # Dev.to_Articles
 My Dev.to Published Articles
 
+Understanding Supervised Learning: A Deep Dive into Classification
+[https://dev.to/loryne_joy/-understanding-supervised-learning-a-deep-dive-into-classification-31de]
+
 HOW EXCEL IS USED IN REAL-WORLD DATA ANALYSIS [https://dev.to/loryne_joy/how-excel-is-used-in-real-world-data-analysis-47na]
 
 How I Built an RCPA Prescription Performance Dashboard in Power BI [https://dev.to/loryne_joy/how-i-built-an-rcpa-prescription-performance-dashboard-in-power-bi-2f23]
